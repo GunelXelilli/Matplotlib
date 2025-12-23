@@ -33,7 +33,34 @@ plt.ylabel('Frequency')
 plt.grid(True)
 plt.show()
 ```
+## 🔍 What Was Done
 
+- Imported and explored the dataset
+- Grouped data using Pandas to calculate summary statistics
+- Analyzed patterns across time-related variables
+- Created line charts to visualize trends
+- Customized plots with:
+  - Figure sizing
+  - Titles and axis labels
+  - Improved readability
+
+---
+
+## 📈 Visualizations
+
+The notebook includes:
+- Line plots showing aggregated values
+- Trend analysis based on grouped data
+- Clear labeling for easy interpretation
+
+---
+
+## 🎯 Purpose
+
+The purpose of this project is to:
+- Practice **data manipulation with Pandas**
+- Improve **data visualization skills using Matplotlib**
+- Build clean, interpretable plots suitable for analysis and portfolios
 
 
 
